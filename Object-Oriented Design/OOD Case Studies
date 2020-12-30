@@ -1,0 +1,31 @@
+Object Oriented Design Case Studies
+
+Design a Library Management System
+Design a Parking Lot
+Design Amazon - Online Shopping System
+Design Stack Overflow
+Design a Movie Ticket Booking System
+Design the data structures for an online book reader system
+Design an ATM
+Design an Airline Management System
+Design Blackjack and a Deck of Cards
+Design a Hotel Management System
+Design a Restaurant Management system
+Design Chess
+Design an Online Stock Brokerage System
+musical jukebox	
+Design a Car Rental System
+Design LinkedIn
+Design Cricinfo
+Design Facebook - a social network 
+Design coffee machine design
+
+Implement a jigsaw puzzle. Design the data structures and explain an algorithm to solve the puzzle. You can assume that you have a fitsWith method which,when passed two puzzle pieces, returns true if the two pieces belong together.
+
+Othello is played as follows: Each Othello piece is white on one side and black on the other. When a piece is surrounded by its opponents on both the left and right sides, or both the top and bottom, it is said to be captured and its color is flipped. On your turn, you must capture at least one of your opponent's pieces. The game ends when either user has no more valid moves. The win is assigned to the person with the most pieces. Implement the object-oriented design for Othello.
+
+Explain how you would design a chat server. In particular, provide details about the various backend components, classes, and methods. What would be the hardest problems to solve?
+ 
+Imagine you have a call center with three levels of employees: respondent, manager and director. An incoming telephone call must be first allocated to a respondent who is free. If the respondent can't handle the call, he or she must escalate the call to a manager. If the manager is not free or not able to handle it, then the call should be escalated to a director. Design the classes and data
+structures for this problem. Implement a method dispatchCaLL() which assigns a call to the first available employee.
+Max product of multidimensional array
